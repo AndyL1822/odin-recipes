@@ -1,0 +1,30 @@
+div.main-body {
+    border: 5px outset black;
+    text-align: center;
+    background-color: beige;
+}
+
+.recipe-list li {
+    padding: 5px;
+    list-style-type: none;
+}
+
+.recipe-list {
+    padding-left: 10px;
+}
+
+.button {
+    color: white;
+}
+
+.button1 {
+    background-color: red;
+}
+
+.button2 {
+    background-color: darkred;
+}
+
+.button3 {
+    background-color: brown;
+}
